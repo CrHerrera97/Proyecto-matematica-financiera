@@ -33,7 +33,7 @@ Las funcionalidades principales del software son:
 ### Menú principal
 El menú principal cuenta con tres botones principales que permiten acceder a las diferentes áreas de matemática financiera.
 
-![Menú principal](src/assets/home.png)
+![Menú principal](src/assets/home.PNG)
 
 ---
 
@@ -48,14 +48,14 @@ Esta sección está compuesta por tres pantallas:
 ### 2.1 Nominal / Periódica / Efectiva
 En esta pantalla se puede convertir cualquier tasa de interés (periódica, nominal o efectiva) a una tasa con forma de pago anticipada o vencida, teniendo en cuenta el periodo de pago (días, meses, trimestre, semestre o año).
 
-![Nominal Periódica Efectiva](src/assets/nominal-periodica-efectiva.png)
+![Nominal Periódica Efectiva](src/assets/nominal-periodica-efectiva.PNG)
 
 ### 2.2 Tasas equivalentes
 - Contiene botones para **Nominal Anual**, **Periódica** y **Efectiva**.
 - Al seleccionar uno, las demás opciones se ocultan.
 - Permite modificar la forma de pago (anticipada o vencida) y el periodo de pago (días, meses, bimestre, trimestre, semestre, año).
 
-![Tasa Equivalente](src/assets/tasa-equivalente.png)
+![Tasa Equivalente](src/assets/tasa-equivalente.PNG)
 
 ### 2.3 Periódica
 - Muestra dos secciones: **tasa periódica conocida** (izquierda) y **tasa periódica a encontrar** (derecha).
@@ -63,7 +63,7 @@ En esta pantalla se puede convertir cualquier tasa de interés (periódica, nomi
   1. Presionar el botón **Encontrar** para calcular la tasa periódica.
   2. Presionar el botón **Convertir** para hallar la tasa deseada.
 
-![Periódica](src/assets/periodica.png)
+![Periódica](src/assets/periodica.PNG)
 
 ---
 
@@ -78,7 +78,7 @@ Esta sección cuenta con tres subpantallas:
 ### 3.1 Presente / Futuro
 Permite calcular el valor presente o futuro de un monto, con pago de interés vencido o anticipado.
 
-![Presente Futuro](src/assets/presente-futuro.png)
+![Presente Futuro](src/assets/presente-futuro.PNG)
 
 ### 3.2 Presente / Cuota uniforme
 - Tres filas de opciones:
@@ -88,14 +88,14 @@ Permite calcular el valor presente o futuro de un monto, con pago de interés ve
 - En cada fila solo se puede escoger una opción.
 - Al seleccionar una combinación, se abren ventanas para ingresar datos y obtener el resultado.
 
-![Presente Cuota Uniforme](src/assets/presente-cuota.png)
+![Presente Cuota Uniforme](src/assets/presente-cuota.PNG)
 
 ### 3.3 Futuro / Cuota uniforme
 - Misma estructura que la pantalla de "Presente / Cuota uniforme".
 - Los pasos y restricciones son iguales.
 - Se abre una ventana para ingresar datos según la opción seleccionada.
 
-![Futuro Cuota Uniforme](src/assets/futuro-cuota.png)
+![Futuro Cuota Uniforme](src/assets/futuro-cuota.PNG)
 
 ---
 
@@ -110,13 +110,13 @@ Esta sección tiene dos subpantallas:
 - Interfaz amigable y fácil de usar.
 - Basta con completar los campos para obtener el resultado.
 
-![Capital Constante](src/assets/capital-const.png)
+![Capital Constante](src/assets/capital-const.PNG)
 
 ### 4.2 Cuota constante
 - Estructura similar a la pantalla de **Capital constante**.
 - Se completan los campos requeridos para calcular el valor del préstamo.
 
-![Cuota Constante](src/assets/cuota-consta.png)
+![Cuota Constante](src/assets/cuota-consta.PNG)
 
 ---
 
