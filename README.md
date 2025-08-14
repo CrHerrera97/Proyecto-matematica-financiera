@@ -119,6 +119,3 @@ Esta sección tiene dos subpantallas:
 ![Cuota Constante](src/assets/cuota-consta.PNG)
 
 ---
-
-## Notas
-- Las tablas y figuras mencionadas (Table 1, Table 2, etc.) pueden incluirse como imágenes en el repositorio para ilustrar el funcionamiento del software.
